@@ -1,0 +1,36 @@
+<?php
+// HTTP
+define('HTTP_SERVER', 'http://localhost/open_cart/admin/');
+define('HTTP_CATALOG', 'http://localhost/open_cart/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://localhost/open_cart/admin/');
+define('HTTPS_CATALOG', 'http://localhost/open_cart/');
+
+// DIR
+define('DIR_APPLICATION', 'C:/xampp/htdocs/open_cart/admin/');
+define('DIR_SYSTEM', 'C:/xampp/htdocs/open_cart/system/');
+define('DIR_IMAGE', 'C:/xampp/htdocs/open_cart/image/');
+define('DIR_STORAGE', 'C:/xampp/htdocs/open_cart/storage/');
+define('DIR_CATALOG', 'C:/xampp/htdocs/open_cart/catalog/');
+define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
+define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
+define('DIR_CONFIG', DIR_SYSTEM . 'config/');
+define('DIR_CACHE', DIR_STORAGE . 'cache/');
+define('DIR_DOWNLOAD', DIR_STORAGE . 'download/');
+define('DIR_LOGS', DIR_STORAGE . 'logs/');
+define('DIR_MODIFICATION', DIR_STORAGE . 'modification/');
+define('DIR_SESSION', DIR_STORAGE . 'session/');
+define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
+
+// DB
+define('DB_DRIVER', 'mpdo');
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
+define('DB_DATABASE', 'ymarket');
+define('DB_PORT', '3306');
+define('DB_PREFIX', 'ym_');
+
+// OpenCart API
+define('OPENCART_SERVER', 'https://www.opencart.com/');
