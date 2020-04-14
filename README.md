@@ -1,8 +1,7 @@
-# OpenCart
-
+#Y-Market - OpenCart
 ## Overview
 
-OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
+
 
 ## Reporting a bug
 
@@ -59,19 +58,4 @@ If a bug is found in an announced developer release that is significant (such as
 
 To receive developer notifications about release information, sign up to the newsletter on the [OpenCart website](http://www.opencart.com) - located in the footer. Then choose the developer news option.
 
-## How to install
 
-Please read the installation instructions included in the repository or download file.
-
-## License
-
-[GNU General Public License version 3 (GPLv3)](https://github.com/opencart/opencart/blob/master/license.txt)
-
-## Links
-
-- [OpenCart homepage](http://www.opencart.com/)
-- [OpenCart forums](http://forum.opencart.com/)
-- [OpenCart blog](http://www.opencart.com/index.php?route=feature/blog)
-- [How to documents](http://docs.opencart.com/)
-- [Newsletter](http://newsletter.opencart.com/h/r/B660EBBE4980C85C)
-- [User Voice suggestions](http://opencart.uservoice.com)
